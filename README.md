@@ -1,6 +1,6 @@
 # Hello there, I'm Tom 👋
 
-Welcome to my GitHub profile! I am currently Head of DevOps UKI @deptagency
+Welcome to my GitHub profile! I am currently Head of DevOps UKI @ [DEPT®](https://www.deptagency.com/)
 
 ## About Me
 
