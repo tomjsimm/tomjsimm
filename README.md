@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am currently Head of DevOps UKI @ DEPT®
 
 - 🌱 I’m currently exploring **advanced Kubernetes** and **cloud-native architectures**
 - 💬 Ask me about **CI/CD pipelines**, **infrastructure as code**, and **containerization**
-- 📫 How to reach me: [Email](mailto:tom@nooklabs.uk) | [LinkedIn]([https://uk.linkedin.com/in/thomassimm)
+- 📫 How to reach me: [Email](mailto:tom@nooklabs.uk) | [LinkedIn](https://uk.linkedin.com/in/thomassimm)
 - ⚡ Fun fact: I love gaming and playing bass guitar!
 
 ## Tech Stack
