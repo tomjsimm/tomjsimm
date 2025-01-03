@@ -1,6 +1,6 @@
-# Hi there, I'm Tom 👋
+# Hello there, I'm Tom 👋
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! I am currently Head of DevOps UKI @ DEPT®
 
 ## About Me
 
