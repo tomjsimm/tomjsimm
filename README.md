@@ -1,7 +1,5 @@
 # Hi there, I'm Tom 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=tomjsimm&color=blue)
-
 Welcome to my GitHub profile!
 
 ## About Me
