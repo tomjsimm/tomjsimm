@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @thomnowuk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 👋 Hi, I’m @tomjsimm
+- 👀 I’m interested in tinkering, cloud infrastructure, automation, and DevOps / best practices.
+- 🌱 Always learning!
+- 📫 How to reach me: tom@nooklabs.uk
+  
 <!---
-thomnowuk/thomnowuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+tomjsimm/tomjsimm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
